@@ -35,6 +35,8 @@ public class SalesRepresentative : Employee {
 ```
 Se puede ver que la clase *Employee* es el concepto más general para todos los empleados en este ejemplo, mientras que *SalesRepresentative* posee un mayor detalle de sus funcionalidades particulares.
 
+Continuando con esta nueva forma de ver el concepto de abstracción, tal como se hace la comparación en la discusión citada, el concepto puede ser aplicado en un sin fin de situaciones de la vida profesional  de personas, en donde para comenzar un proyecto de cualquier tipo siempre se inicia de los objetivos generales de este y se empiezan a generar los primeros lineamientos, sin llegar a detallarlos mucho.
+
 ### Encapsulamiento
 
 Para este concepto tomó mi atención la definición ([ir a respuesta sobre encapsulamiento]), en donde se define como un concepto que forma parte también de abstracción. En donde se esconde el estado de los objetos encapsulados, y los usuarios solo interactuan con estos a través de métodos. Un ejemplo de esto se puede ver en el siguiente código:
@@ -52,6 +54,8 @@ public class Employee {
 ```
 
 Como se puede ver corresponde también al ejemplo de abstracción mostrado anteriormente. De esta forma, partiendo desde encapsulamiento se puede lograr abstracción.
+
+Este concepto también puede ser aplicado perfectamente a las empresas o grupos de trabajo, en donde subgrupos o divisiones tienen tareas particulares en áreas determinadas, se necesitan unos a otros, pero estas divisiones no conocen el detalle de las tareas realizadas por los otros y solo ocupan en resultado de su trabajo, lo que es prácticamente el concepto de encapsulamiento.
 
 ### Aprendizajes
 
